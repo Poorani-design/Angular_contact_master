@@ -1,2 +1,2 @@
-# Angular_contact_master
-Angular Contact Management system using basic CRUD operations
+# Angular Contact Management System (CMS)
+Angular Contact Management System using basic CRUD operations
